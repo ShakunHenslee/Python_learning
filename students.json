@@ -1,0 +1,20 @@
+[
+    {
+        "name": "小明",
+        "math_score": 90,
+        "english_score": 85,
+        "python_score": 95
+    },
+    {
+        "name": "小明",
+        "math_score": 90.0,
+        "english_score": 85.0,
+        "python_score": 95.0
+    },
+    {
+        "name": "小红",
+        "math_score": 88.0,
+        "english_score": 68.0,
+        "python_score": 90.0
+    }
+  ]
